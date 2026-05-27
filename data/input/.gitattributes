@@ -4,3 +4,4 @@
 *.orc filter=lfs diff=lfs merge=lfs -text
 >>>>>>> cfd2710aa8491b27f38c213441b2b741a97451c1
 *.parquet filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
