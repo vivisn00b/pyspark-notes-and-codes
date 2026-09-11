@@ -1,0 +1,3 @@
+employee_id,department_id,name,age,gender,salary,hire_date
+003,102,Bob Brown,35,Male,55000,2014-05-01
+004,102,Alice Lee,28,Female,48000,2017-09-30
